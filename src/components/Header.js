@@ -1,5 +1,5 @@
 import { Link, NavLink } from "react-router-dom"; 
-import Logo from "../assets/logo.png"
+import Logo from "../assets/pmplogo2.svg"
 import { useCart } from "../context/CartContext";
 import "./Header.css";
 
